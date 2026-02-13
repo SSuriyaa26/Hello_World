@@ -8,3 +8,10 @@
 /dataSources.local.xml
 # Editor-based HTTP Client requests
 /httpRequests/
+# Compiled files
+*.class
+out/
+
+# IntelliJ
+.idea/
+*.iml
